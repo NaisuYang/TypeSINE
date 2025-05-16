@@ -17,10 +17,11 @@ TypeSINE is designed to detect short interspersed nuclear element (SINE) retrotr
 2. samtools (version 1.0 or later), which can be downloaded from [https://github.com/samtools](https://github.com/samtools).
 3. bedtools (version 2.30.0 or later), which can be downloaded from [https://github.com/arq5x/bedtools2](https://github.com/arq5x/bedtools2).
 4. Python 3.6+
-   - For the following packages, o
+   - For the following packages
    - pandas
 
-```shell
-bwa-mem2, samtools, bedtools
-```
+
+
+## Installation and usage tutorials are still in preparation and will be updated soon.
+
 
